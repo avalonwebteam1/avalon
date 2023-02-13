@@ -98,7 +98,7 @@ var lingua = navigator.language || navigator.userLanguage;
 
 if (lingua.startsWith("it")) {
   i = traduzioni;
-}
+};
 
         i = {
             weekdays: {
